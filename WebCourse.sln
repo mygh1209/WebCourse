@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCourse", "WebCourse\WebCourse.csproj", "{CACBEC09-F956-4134-8E9E-D26ADC444B6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCourse.Tests", "WebCourse.Tests\WebCourse.Tests.csproj", "{19747D1D-CFEB-4344-900E-85207C7E827E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CACBEC09-F956-4134-8E9E-D26ADC444B6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CACBEC09-F956-4134-8E9E-D26ADC444B6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CACBEC09-F956-4134-8E9E-D26ADC444B6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CACBEC09-F956-4134-8E9E-D26ADC444B6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19747D1D-CFEB-4344-900E-85207C7E827E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19747D1D-CFEB-4344-900E-85207C7E827E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19747D1D-CFEB-4344-900E-85207C7E827E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19747D1D-CFEB-4344-900E-85207C7E827E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98C74D06-1BEB-4C7C-8D1A-828E23197C1E}
+	EndGlobalSection
+EndGlobal
